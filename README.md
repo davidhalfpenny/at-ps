@@ -13,6 +13,10 @@ I added the labs as database activities in Moodle. There were multiple options f
 While we don't have completion tracking turned on for this training (it's not compulsory), it could be turned on if we decided that we wanted to make sure people were doing the work.
 
 ## Screenshots
+![Learning outcomes of Moodle implementation of course](/images/Screenshot1.png)
+![Day 1 chunked up in Moodle implementation of course](/images/Screenshot2.png)
+![Example of a lab in Moodle implementation of course](/images/Screenshot3.png)
+![Occifical solution to one of the labs in Moodle implementation of course](/images/Screenshot4.png)
 
 
 
