@@ -1,1 +1,0 @@
-﻿ls C:\* -Include '*.ps1', '*.psm1' -Recurse | % { Invoke-ScriptAnalyzer -Path $_ -CustomizedRulePath (Get-Module -ListAvailable -Name InjectionHunter).Path -ExcludeRule PS* }
